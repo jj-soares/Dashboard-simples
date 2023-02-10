@@ -1,10 +1,17 @@
 <h1 align="center">
-  💻 DASH BOARD 💻
+  💻 DASHBOARD💻
 </h1>
 
 <h4 align="center">
-  💻Um Dash Board simples apenas com Html e Css para treinas semanticas e escrita de codigo!!
+  💻A simple DashBoard with just Html and CSS for semantic training and code writing!!
 </h4>
+
+## Photo 🎴
+   <div align='center' >
+
+ <img src="./logos/dash readme.JPG">
+
+   </div>
 
 <p align="center">   
    <a href="#sobre">Sobre</a> .
@@ -16,31 +23,31 @@
 
 
    
- # Sobre 
+## On ✔
      
      
-   <p> Esse e um Dash Board simples, que fiz com intuito de treinar a semantica do HTML e algumas estilização com CSS !</p>
+   <p> This is a simple DashBoard, which I made in order to train the semantics of HTML and some styling with CSS !</p>
    
    
+## Roadmap 🗺
+   
+   <p> It's not a very complex project, but as I'm training to improve my HTML semantics, I did it with the intention of training
+and also some CSS styling!! </p>
    
    
+## Technologies 🚀
    
-   # Roadmap 
+   <h3 align="center"> Technologies used in the project 🙃 </h3>
    
-   <p> Não e um projeto com muita complexidade, mas como estou treinando para melhorar a minha semantica de HTML, fiz com intuito de treinar 
-e tambem algumas estilizações de CSS!!</p>
+   <img src='./logos/computer1.gif' alt='gif-de-computador' align='right' width='20%'/>
+
+<br>
+
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://www.w3schools.com/css/)
    
+<br>
+<br>
    
-   # Tecnologias 
-   <h3 align="center"> Tecnolgias usadas no projeto </h3>
-  <p>HTML</p>
-  <p>CSS</p>
-  
-   
-   
-   # Fotos 
-   
-   <img src="./logos/dash readme.JPG">
-   
-   # Autor 
-   <p>Ola, meu nome e Joao. <br> Me siga no <a href="https://www.linkedin.com/in/jo%C3%A3o-soares13/" target="_blank">Linkedin</a> para ver mais sobre os projeos que posto.!</p>
+## Author 🙋🏾‍♂️
+   <p> Hello, my name is João. <br> Follow me on <a href="https://www.linkedin.com/in/joaosoaressilva/" target="_blank">Linkedin</a> to see more about the projects I post.!</p>
